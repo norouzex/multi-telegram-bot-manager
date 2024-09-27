@@ -20,8 +20,8 @@ In this code, only one account is active at any given time, which decreases serv
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/norouzex/MultiBotManager
-   cd MultiBotManager
+   git clone https://github.com/norouzex/multi-telegram-bot-manager
+   cd multi-telegram-bot-manager
 2. Create and activate a virtual environment:
    ```python -m venv venv
    .\venv\Scripts\activate  # For Windows
